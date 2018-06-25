@@ -1,0 +1,48 @@
+body{
+	margin:auto;
+	background-color: honeydew;
+}
+.cand_reg_container{
+	width: 700px;
+	height:700px;
+	text-align: center;
+	background-color:rgb(44, 62, 80) ;
+	margin: 0  auto;
+	margin-top: 70px;
+	margin-bottom: 100px;
+	border-radius: 4px;
+
+}
+#legendtextcolor{
+	font-size: 18px;
+	color: White;
+	font-family: 'Lora', serif;
+
+}
+
+input{
+	height: 45px;
+	width:80%;
+	font-size: 18px;
+	font-family: 'Lora', serif;
+	margin-bottom: 20px;
+	padding-left: 30px;
+}
+#submit{
+	margin-top: 20px;
+}
+.col1{
+	width: 80%;
+	margin: auto;
+	height: auto;
+	padding-top: 40px;
+}
+.upload_img{
+	margin-bottom: 70px;
+}
+
+/*.col2{
+	width: 40%;
+	height: auto;
+	float: left;
+}
